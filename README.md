@@ -1,10 +1,12 @@
 A simple social media web app to connect artists and entertainers around the world.
 
-This project was made by me in an internship.
+This project was made by me from scratch in an internship.
 
 First "npm install" then "npm run" then server folder then same for the client folder.
 
 Enjoy!
+
+Future work - Implementing like, share, comment buttons and uploading videos and audios while posting left.
 
 Preview:
 
